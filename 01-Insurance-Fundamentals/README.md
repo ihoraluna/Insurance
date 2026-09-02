@@ -40,7 +40,7 @@ A concise study reference covering the basics of insurance in India — regulato
 - **How to Choose a Policy**
   - Quick tips for selecting the right coverage
 
-- **Glossary of Key Terms**
+- **Glossary**
   - ACV
   - Appraisal
   - Claim
