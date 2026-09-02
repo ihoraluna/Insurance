@@ -58,7 +58,3 @@ A concise study reference covering the basics of insurance in India — regulato
   - Named Peril
   - Policy
   - Premium
-
-The detailed notes and explanations are available in the PDF below.
-
-**[📘 Insurance Fundamentals.pdf](./Insurance%20Fundamentals.pdf)**
