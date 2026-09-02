@@ -60,6 +60,3 @@ A concise study reference covering the fundamentals of Information Risk Manageme
   - Cost savings
   - Improved business continuity
   - Greater visibility into organizational risks
-
-- **[📗 IRM Part 2](./03-IRM-Part-2/)**
-  - Notes and learning material for Information Risk Management — Part 
